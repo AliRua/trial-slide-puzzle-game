@@ -16,7 +16,7 @@ window.onload = function () {
             tile.id = r.toString() + "-" + c.toString();
             tile.src = imgOrder.shift() + ".jpg";
 
-            document.getElementById('board').append(tile);
+            document.getElementById("board").append(tile);
         }
     }
 };
