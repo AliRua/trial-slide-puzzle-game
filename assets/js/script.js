@@ -6,7 +6,7 @@ let otherTile;
 
 let turns = 0;
 
-let imgOrder = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
+let imgOrder = ["1", "2", "3", "4", "5", "6", "7", "8", "9"];
 
 window.onload = function () {
     for (let r = 0; r < rows; r++) {
