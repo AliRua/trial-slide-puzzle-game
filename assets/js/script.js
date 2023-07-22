@@ -28,6 +28,8 @@ window.onload = function () {
             tile.addEventListener("drop", dragDrop);        //drag an image over another image, drop the image
             tile.addEventListener("dragend", dragEnd);      //after drag drop, swap the two tiles
 
+
+            
             document.getElementById("board").append(tile);
         }
     }
