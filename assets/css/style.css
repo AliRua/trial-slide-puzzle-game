@@ -25,5 +25,5 @@ body {
     width: 120px;
     /* border: 1px solid black; */
     box-shadow: 0 0 1px 1px black;
-
+    cursor: pointer;
 }
